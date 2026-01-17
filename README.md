@@ -3,11 +3,10 @@
 Pada kesempatan kali ini saya akan mencoba untuk menampilkan apa yang telah saya buat yaitu Project CRUD (Create, Update, and Delete) sederhana menggunakan Flutter dan Firebase. Pertama-tama saya akan menampilkan source code untuk mengatur tampilan awal yang saya buat sebagai berikut:
 <details>
   <summary>home_page.dart
-    <p align="center">
+  <p align="center">
   <img src="Picture/Tampilan Running.png" width="350">
 </p>
   </summary>
-
   ```dart
 import 'package:flutter/material.dart';
 import 'package:crud_sederhana/model/mahasiswa_model.dart';
