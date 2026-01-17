@@ -2,7 +2,11 @@
 
 Pada kesempatan kali ini saya akan mencoba untuk menampilkan apa yang telah saya buat yaitu Project CRUD (Create, Update, and Delete) sederhana menggunakan Flutter dan Firebase. Pertama-tama saya akan menampilkan source code untuk mengatur tampilan awal yang saya buat sebagai berikut:
 <details>
-  <summary>home_page.dart</summary>
+  <summary>home_page.dart
+    <p align="center">
+  <img src="Picture/Tampilan Running.png" width="350">
+</p>
+  </summary>
 
   ```dart
 import 'package:flutter/material.dart';
@@ -134,7 +138,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+```
 </details>
-<p align="center">
-  <img src="Picture/Tampilan Running.png" width="300">
-</p>
+
